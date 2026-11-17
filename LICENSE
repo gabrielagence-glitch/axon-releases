@@ -1,0 +1,27 @@
+Axon — Licence propriétaire
+
+Copyright (c) 2026 l'équipe Axon (Gabriel, Nathan, Faruk). Tous droits réservés.
+
+Ce logiciel, son code source, sa documentation et ses ressources graphiques sont la propriété
+exclusive de l'équipe Axon. Le dépôt de code est privé.
+
+1. Utilisation. Toute personne qui reçoit l'installateur officiel d'Axon (publié sur
+   https://github.com/gabrielagence-glitch/axon-releases) peut installer et utiliser l'application,
+   gratuitement, pour son usage personnel ou professionnel.
+
+2. Interdictions. Sans accord écrit de l'équipe Axon, il est interdit de : copier, modifier,
+   redistribuer, revendre ou sous-licencier le code source ; décompiler l'application pour en
+   reprendre le code ; publier une version dérivée.
+
+3. Contributeurs. Les membres invités sur le dépôt privé peuvent lire et modifier le code pour
+   développer Axon. Leurs contributions appartiennent au projet Axon.
+
+4. Composants tiers. Axon inclut des bibliothèques open source qui restent sous leur propre licence
+   (MIT, Apache-2.0, EPL-2.0, GPL-2.0 pour Git distribué tel quel, etc.). La liste est dans
+   docs/v3/LICENCES.md ; ces licences s'appliquent à ces composants, pas au code d'Axon.
+
+5. Garantie. Le logiciel est fourni « tel quel », sans garantie d'aucune sorte. L'équipe Axon n'est
+   pas responsable des dommages liés à son utilisation. Vos notes restent des fichiers sur votre PC
+   ou votre Drive : faites-en des sauvegardes.
+
+Contact : ouvrir une issue sur le dépôt privé, ou écrire à un membre de l'équipe.
